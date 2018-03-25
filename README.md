@@ -6,7 +6,7 @@ Tomcat 9
 Java 8
 
 
-Technology:
+Technologys:
 Spring MVC
 Hibernate
 Spring Security
